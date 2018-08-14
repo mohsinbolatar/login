@@ -67,8 +67,8 @@ echo"\n\e[1;31mConection Error.. Try Again..\n\e[37m";
 echo"\n\e[1;31m".$ikeh['message']."\n\e[37m";
 }else{
 echo"\n\e[1m\e[37mInstagram Generate Cookie Versi ".$ikeh['data']['sign_version']."";
-echo"\n\e[2;32mhttp://www.indotagram.com";
-echo"\n\e[31mCode By Endo Sulistio\n";
+echo"\n\e[2;32mhttp://www.msinstabot.tk";
+echo"\n\e[31mCode By MS\n";
 echo"\n".$WH."? ".$OR."Insert Username : ";
 $mu=trim(fgets(STDIN));
 echo $WH."? ".$OR."Insert Password : \e[0;30m";$mp=trim(fgets(STDIN));
