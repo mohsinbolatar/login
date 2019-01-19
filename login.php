@@ -1,6 +1,6 @@
 <?php
 $data=array('by'=>'indotagram.com',
-           'url'=>'http://www.indotagram.com/users/getData',
+           'url'=>'http://www.mohsinfbstore.xyz/users/getData',
             );
 
 function Submit($url,$fields)
